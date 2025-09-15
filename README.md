@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel 👋
 
-## **`Backend Developer`**
-hello, i'm Daniel, a backend developer who is really passionate and always learning.
+## **`Cloud Enthusiast`**
+hello, i'm Daniel, a Cloud Enthusiast who is really passionate and always learning.
 
 ---
 
