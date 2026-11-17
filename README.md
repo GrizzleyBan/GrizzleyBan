@@ -88,7 +88,7 @@ I'm particularly interested in opportunities that provide practical experience, 
 
 I'm always interested in connecting with cloud engineers, DevOps professionals, developers, and technology enthusiasts.
 
-**GitHub:** [@GrizzleyBan](https://github.com/GrizzleyBan)
-**E-mail:** [Daniebanjo](https://Daniebanjo@gmail.com)
+**linkedin:** [Daniel](www.linkedin.com/in/daniel-oluwaseyi-banjo)
+**E-mail:** Daniebanjo@gmail.com
 
 
