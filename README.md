@@ -79,22 +79,6 @@ Key areas explored:
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Terraform and infrastructure management
-- Docker and container orchestration
-- CI/CD pipeline automation
-- Azure infrastructure administration
-- Cloud networking, security, and monitoring
-
-## 🎯 Career Interests
-
-I'm interested in opportunities involving:
-- Cloud Engineering
-- DevOps Engineering
-- Infrastructure Automation
-- Cloud Security
-- Site Reliability Engineering (SRE)
 
 I'm particularly interested in opportunities that provide practical experience, mentorship, and exposure to real-world infrastructure challenges.
 
